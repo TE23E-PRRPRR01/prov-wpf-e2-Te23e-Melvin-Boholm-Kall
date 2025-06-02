@@ -1,11 +1,5 @@
 {
     "workbench.iconTheme": "vscode-great-icons",
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#911649",
-        "activityBar.activeBackground": "#d6216c",
-        "titleBar.activeBackground": "#911649",
-        "titleBar.activeForeground": "#FFFFFF"
-    },
     "editor.codeLens": false,
     "explorer.compactFolders": false,
     "editor.multiCursorModifier": "ctrlCmd",
